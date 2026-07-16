@@ -5,3 +5,4 @@ Welcome to my Python learning journey! This repository contains micro-projects b
 ## 📁 Projects Included:
 1. **Brand Name Generator:** Practices string manipulation and user input.
 2. **Tip Calculator:** Focuses on float mathematics, typecasting, and round operations.
+3. Treasure Island: A text-based choose-your-own-adventure game focusing on complex conditional logic (if/elif/else) and decision trees.
